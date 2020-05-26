@@ -127,7 +127,7 @@ Delete everything in your trash can/recycling bin if you're fancy.
 Start again.
 
 -------------------
-### Example how it worked for Alexander Farr with Command prompt with Windows:
+### Example how it worked for Alex with Command prompt with Windows:
 ```
 docker network create privacy-network
 docker run --name selenium-container -d -p 4444:4444 -p 5900:5900 -v Folder:/dev/shm selenium/standalone-chrome-debug
